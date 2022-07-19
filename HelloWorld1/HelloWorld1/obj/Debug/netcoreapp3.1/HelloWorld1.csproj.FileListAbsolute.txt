@@ -1,0 +1,14 @@
+C:\Users\nikhi\Desktop\C--fundamentals\HelloWorld1\HelloWorld1\bin\Debug\netcoreapp3.1\HelloWorld1.exe
+C:\Users\nikhi\Desktop\C--fundamentals\HelloWorld1\HelloWorld1\bin\Debug\netcoreapp3.1\HelloWorld1.deps.json
+C:\Users\nikhi\Desktop\C--fundamentals\HelloWorld1\HelloWorld1\bin\Debug\netcoreapp3.1\HelloWorld1.runtimeconfig.json
+C:\Users\nikhi\Desktop\C--fundamentals\HelloWorld1\HelloWorld1\bin\Debug\netcoreapp3.1\HelloWorld1.runtimeconfig.dev.json
+C:\Users\nikhi\Desktop\C--fundamentals\HelloWorld1\HelloWorld1\bin\Debug\netcoreapp3.1\HelloWorld1.dll
+C:\Users\nikhi\Desktop\C--fundamentals\HelloWorld1\HelloWorld1\bin\Debug\netcoreapp3.1\HelloWorld1.pdb
+C:\Users\nikhi\Desktop\C--fundamentals\HelloWorld1\HelloWorld1\obj\Debug\netcoreapp3.1\HelloWorld1.csproj.AssemblyReference.cache
+C:\Users\nikhi\Desktop\C--fundamentals\HelloWorld1\HelloWorld1\obj\Debug\netcoreapp3.1\HelloWorld1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\Desktop\C--fundamentals\HelloWorld1\HelloWorld1\obj\Debug\netcoreapp3.1\HelloWorld1.AssemblyInfoInputs.cache
+C:\Users\nikhi\Desktop\C--fundamentals\HelloWorld1\HelloWorld1\obj\Debug\netcoreapp3.1\HelloWorld1.AssemblyInfo.cs
+C:\Users\nikhi\Desktop\C--fundamentals\HelloWorld1\HelloWorld1\obj\Debug\netcoreapp3.1\HelloWorld1.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\Desktop\C--fundamentals\HelloWorld1\HelloWorld1\obj\Debug\netcoreapp3.1\HelloWorld1.dll
+C:\Users\nikhi\Desktop\C--fundamentals\HelloWorld1\HelloWorld1\obj\Debug\netcoreapp3.1\HelloWorld1.pdb
+C:\Users\nikhi\Desktop\C--fundamentals\HelloWorld1\HelloWorld1\obj\Debug\netcoreapp3.1\HelloWorld1.genruntimeconfig.cache

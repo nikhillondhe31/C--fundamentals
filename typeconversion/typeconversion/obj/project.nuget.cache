@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Aq0FJffqV4yvh3HyHsrKhaaycBB91cIPlZ3UerKlh+U+J9vqWy+Jm9BxSSlBe2pETn03/EG12GgqXclOQCLuNA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikhi\\Desktop\\C--fundamentals\\typeconversion\\typeconversion\\typeconversion.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikhi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}

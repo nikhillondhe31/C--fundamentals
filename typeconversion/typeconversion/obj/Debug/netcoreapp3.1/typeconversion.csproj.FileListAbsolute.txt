@@ -1,0 +1,14 @@
+C:\Users\nikhi\Desktop\C--fundamentals\typeconversion\typeconversion\bin\Debug\netcoreapp3.1\typeconversion.exe
+C:\Users\nikhi\Desktop\C--fundamentals\typeconversion\typeconversion\bin\Debug\netcoreapp3.1\typeconversion.deps.json
+C:\Users\nikhi\Desktop\C--fundamentals\typeconversion\typeconversion\bin\Debug\netcoreapp3.1\typeconversion.runtimeconfig.json
+C:\Users\nikhi\Desktop\C--fundamentals\typeconversion\typeconversion\bin\Debug\netcoreapp3.1\typeconversion.runtimeconfig.dev.json
+C:\Users\nikhi\Desktop\C--fundamentals\typeconversion\typeconversion\bin\Debug\netcoreapp3.1\typeconversion.dll
+C:\Users\nikhi\Desktop\C--fundamentals\typeconversion\typeconversion\bin\Debug\netcoreapp3.1\typeconversion.pdb
+C:\Users\nikhi\Desktop\C--fundamentals\typeconversion\typeconversion\obj\Debug\netcoreapp3.1\typeconversion.csproj.AssemblyReference.cache
+C:\Users\nikhi\Desktop\C--fundamentals\typeconversion\typeconversion\obj\Debug\netcoreapp3.1\typeconversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\Desktop\C--fundamentals\typeconversion\typeconversion\obj\Debug\netcoreapp3.1\typeconversion.AssemblyInfoInputs.cache
+C:\Users\nikhi\Desktop\C--fundamentals\typeconversion\typeconversion\obj\Debug\netcoreapp3.1\typeconversion.AssemblyInfo.cs
+C:\Users\nikhi\Desktop\C--fundamentals\typeconversion\typeconversion\obj\Debug\netcoreapp3.1\typeconversion.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\Desktop\C--fundamentals\typeconversion\typeconversion\obj\Debug\netcoreapp3.1\typeconversion.dll
+C:\Users\nikhi\Desktop\C--fundamentals\typeconversion\typeconversion\obj\Debug\netcoreapp3.1\typeconversion.pdb
+C:\Users\nikhi\Desktop\C--fundamentals\typeconversion\typeconversion\obj\Debug\netcoreapp3.1\typeconversion.genruntimeconfig.cache

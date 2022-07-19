@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VEQ/Y0WTkcrQe1f32zax9xIuxfMwAQzNEfqzRVWa/fRp3BnBtXWyxwDGP5AKNeAWLPT2wR2gfNbDZJMAdF0kCg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\nikhi\\Desktop\\C--fundamentals\\HelloWorld1\\HelloWorld1\\HelloWorld1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\nikhi\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.23\\microsoft.netcore.app.host.win-x64.3.1.23.nupkg.sha512"
+  ],
+  "logs": []
+}
