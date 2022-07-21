@@ -1,0 +1,14 @@
+C:\Users\nikhi\Desktop\C--fundamentals\referencetypevaluetype\referencetypevaluetype\bin\Debug\netcoreapp3.1\referencetypevaluetype.exe
+C:\Users\nikhi\Desktop\C--fundamentals\referencetypevaluetype\referencetypevaluetype\bin\Debug\netcoreapp3.1\referencetypevaluetype.deps.json
+C:\Users\nikhi\Desktop\C--fundamentals\referencetypevaluetype\referencetypevaluetype\bin\Debug\netcoreapp3.1\referencetypevaluetype.runtimeconfig.json
+C:\Users\nikhi\Desktop\C--fundamentals\referencetypevaluetype\referencetypevaluetype\bin\Debug\netcoreapp3.1\referencetypevaluetype.runtimeconfig.dev.json
+C:\Users\nikhi\Desktop\C--fundamentals\referencetypevaluetype\referencetypevaluetype\bin\Debug\netcoreapp3.1\referencetypevaluetype.dll
+C:\Users\nikhi\Desktop\C--fundamentals\referencetypevaluetype\referencetypevaluetype\bin\Debug\netcoreapp3.1\referencetypevaluetype.pdb
+C:\Users\nikhi\Desktop\C--fundamentals\referencetypevaluetype\referencetypevaluetype\obj\Debug\netcoreapp3.1\referencetypevaluetype.csproj.AssemblyReference.cache
+C:\Users\nikhi\Desktop\C--fundamentals\referencetypevaluetype\referencetypevaluetype\obj\Debug\netcoreapp3.1\referencetypevaluetype.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\Desktop\C--fundamentals\referencetypevaluetype\referencetypevaluetype\obj\Debug\netcoreapp3.1\referencetypevaluetype.AssemblyInfoInputs.cache
+C:\Users\nikhi\Desktop\C--fundamentals\referencetypevaluetype\referencetypevaluetype\obj\Debug\netcoreapp3.1\referencetypevaluetype.AssemblyInfo.cs
+C:\Users\nikhi\Desktop\C--fundamentals\referencetypevaluetype\referencetypevaluetype\obj\Debug\netcoreapp3.1\referencetypevaluetype.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\Desktop\C--fundamentals\referencetypevaluetype\referencetypevaluetype\obj\Debug\netcoreapp3.1\referencetypevaluetype.dll
+C:\Users\nikhi\Desktop\C--fundamentals\referencetypevaluetype\referencetypevaluetype\obj\Debug\netcoreapp3.1\referencetypevaluetype.pdb
+C:\Users\nikhi\Desktop\C--fundamentals\referencetypevaluetype\referencetypevaluetype\obj\Debug\netcoreapp3.1\referencetypevaluetype.genruntimeconfig.cache
