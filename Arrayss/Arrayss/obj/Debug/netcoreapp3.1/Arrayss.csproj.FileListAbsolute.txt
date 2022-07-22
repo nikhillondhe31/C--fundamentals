@@ -1,0 +1,14 @@
+C:\Users\nikhi\Desktop\C--fundamentals\Arrayss\Arrayss\bin\Debug\netcoreapp3.1\Arrayss.exe
+C:\Users\nikhi\Desktop\C--fundamentals\Arrayss\Arrayss\bin\Debug\netcoreapp3.1\Arrayss.deps.json
+C:\Users\nikhi\Desktop\C--fundamentals\Arrayss\Arrayss\bin\Debug\netcoreapp3.1\Arrayss.runtimeconfig.json
+C:\Users\nikhi\Desktop\C--fundamentals\Arrayss\Arrayss\bin\Debug\netcoreapp3.1\Arrayss.runtimeconfig.dev.json
+C:\Users\nikhi\Desktop\C--fundamentals\Arrayss\Arrayss\bin\Debug\netcoreapp3.1\Arrayss.dll
+C:\Users\nikhi\Desktop\C--fundamentals\Arrayss\Arrayss\bin\Debug\netcoreapp3.1\Arrayss.pdb
+C:\Users\nikhi\Desktop\C--fundamentals\Arrayss\Arrayss\obj\Debug\netcoreapp3.1\Arrayss.csproj.AssemblyReference.cache
+C:\Users\nikhi\Desktop\C--fundamentals\Arrayss\Arrayss\obj\Debug\netcoreapp3.1\Arrayss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\Desktop\C--fundamentals\Arrayss\Arrayss\obj\Debug\netcoreapp3.1\Arrayss.AssemblyInfoInputs.cache
+C:\Users\nikhi\Desktop\C--fundamentals\Arrayss\Arrayss\obj\Debug\netcoreapp3.1\Arrayss.AssemblyInfo.cs
+C:\Users\nikhi\Desktop\C--fundamentals\Arrayss\Arrayss\obj\Debug\netcoreapp3.1\Arrayss.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\Desktop\C--fundamentals\Arrayss\Arrayss\obj\Debug\netcoreapp3.1\Arrayss.dll
+C:\Users\nikhi\Desktop\C--fundamentals\Arrayss\Arrayss\obj\Debug\netcoreapp3.1\Arrayss.pdb
+C:\Users\nikhi\Desktop\C--fundamentals\Arrayss\Arrayss\obj\Debug\netcoreapp3.1\Arrayss.genruntimeconfig.cache

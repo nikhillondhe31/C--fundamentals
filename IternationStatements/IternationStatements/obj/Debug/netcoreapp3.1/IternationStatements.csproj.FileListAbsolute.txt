@@ -1,0 +1,14 @@
+C:\Users\nikhi\Desktop\C--fundamentals\IternationStatements\IternationStatements\bin\Debug\netcoreapp3.1\IternationStatements.exe
+C:\Users\nikhi\Desktop\C--fundamentals\IternationStatements\IternationStatements\bin\Debug\netcoreapp3.1\IternationStatements.deps.json
+C:\Users\nikhi\Desktop\C--fundamentals\IternationStatements\IternationStatements\bin\Debug\netcoreapp3.1\IternationStatements.runtimeconfig.json
+C:\Users\nikhi\Desktop\C--fundamentals\IternationStatements\IternationStatements\bin\Debug\netcoreapp3.1\IternationStatements.runtimeconfig.dev.json
+C:\Users\nikhi\Desktop\C--fundamentals\IternationStatements\IternationStatements\bin\Debug\netcoreapp3.1\IternationStatements.dll
+C:\Users\nikhi\Desktop\C--fundamentals\IternationStatements\IternationStatements\bin\Debug\netcoreapp3.1\IternationStatements.pdb
+C:\Users\nikhi\Desktop\C--fundamentals\IternationStatements\IternationStatements\obj\Debug\netcoreapp3.1\IternationStatements.csproj.AssemblyReference.cache
+C:\Users\nikhi\Desktop\C--fundamentals\IternationStatements\IternationStatements\obj\Debug\netcoreapp3.1\IternationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\Desktop\C--fundamentals\IternationStatements\IternationStatements\obj\Debug\netcoreapp3.1\IternationStatements.AssemblyInfoInputs.cache
+C:\Users\nikhi\Desktop\C--fundamentals\IternationStatements\IternationStatements\obj\Debug\netcoreapp3.1\IternationStatements.AssemblyInfo.cs
+C:\Users\nikhi\Desktop\C--fundamentals\IternationStatements\IternationStatements\obj\Debug\netcoreapp3.1\IternationStatements.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\Desktop\C--fundamentals\IternationStatements\IternationStatements\obj\Debug\netcoreapp3.1\IternationStatements.dll
+C:\Users\nikhi\Desktop\C--fundamentals\IternationStatements\IternationStatements\obj\Debug\netcoreapp3.1\IternationStatements.pdb
+C:\Users\nikhi\Desktop\C--fundamentals\IternationStatements\IternationStatements\obj\Debug\netcoreapp3.1\IternationStatements.genruntimeconfig.cache

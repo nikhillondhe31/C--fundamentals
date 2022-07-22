@@ -1,0 +1,14 @@
+C:\Users\nikhi\Desktop\C--fundamentals\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.exe
+C:\Users\nikhi\Desktop\C--fundamentals\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.deps.json
+C:\Users\nikhi\Desktop\C--fundamentals\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.json
+C:\Users\nikhi\Desktop\C--fundamentals\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.runtimeconfig.dev.json
+C:\Users\nikhi\Desktop\C--fundamentals\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.dll
+C:\Users\nikhi\Desktop\C--fundamentals\Lists\Lists\bin\Debug\netcoreapp3.1\Lists.pdb
+C:\Users\nikhi\Desktop\C--fundamentals\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.csproj.AssemblyReference.cache
+C:\Users\nikhi\Desktop\C--fundamentals\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\Desktop\C--fundamentals\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfoInputs.cache
+C:\Users\nikhi\Desktop\C--fundamentals\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.AssemblyInfo.cs
+C:\Users\nikhi\Desktop\C--fundamentals\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\Desktop\C--fundamentals\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.dll
+C:\Users\nikhi\Desktop\C--fundamentals\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.pdb
+C:\Users\nikhi\Desktop\C--fundamentals\Lists\Lists\obj\Debug\netcoreapp3.1\Lists.genruntimeconfig.cache
