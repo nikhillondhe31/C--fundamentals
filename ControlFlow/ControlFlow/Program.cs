@@ -7,7 +7,7 @@ namespace ControlFlow
     {
         static void Main(string[] args)
         {
-            int hour = 10;
+            /*int hour = 10;
 
             if (hour > 0 && hour < 12)
             {
@@ -63,7 +63,13 @@ namespace ControlFlow
                 case Season.Spring:
                     Console.WriteLine("You've got promotion");
                     break;
-            }
+            }*/
+
+            //Excercise.CheckNumbers();
+
+            //Excercise.MaxofTwo();
+
+            Excercise.SpeedCheck();
 
 
         }
