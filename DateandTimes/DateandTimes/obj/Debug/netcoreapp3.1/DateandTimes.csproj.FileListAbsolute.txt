@@ -1,0 +1,14 @@
+C:\Users\nikhi\Desktop\C--fundamentals\DateandTimes\DateandTimes\bin\Debug\netcoreapp3.1\DateandTimes.exe
+C:\Users\nikhi\Desktop\C--fundamentals\DateandTimes\DateandTimes\bin\Debug\netcoreapp3.1\DateandTimes.deps.json
+C:\Users\nikhi\Desktop\C--fundamentals\DateandTimes\DateandTimes\bin\Debug\netcoreapp3.1\DateandTimes.runtimeconfig.json
+C:\Users\nikhi\Desktop\C--fundamentals\DateandTimes\DateandTimes\bin\Debug\netcoreapp3.1\DateandTimes.runtimeconfig.dev.json
+C:\Users\nikhi\Desktop\C--fundamentals\DateandTimes\DateandTimes\bin\Debug\netcoreapp3.1\DateandTimes.dll
+C:\Users\nikhi\Desktop\C--fundamentals\DateandTimes\DateandTimes\bin\Debug\netcoreapp3.1\DateandTimes.pdb
+C:\Users\nikhi\Desktop\C--fundamentals\DateandTimes\DateandTimes\obj\Debug\netcoreapp3.1\DateandTimes.csproj.AssemblyReference.cache
+C:\Users\nikhi\Desktop\C--fundamentals\DateandTimes\DateandTimes\obj\Debug\netcoreapp3.1\DateandTimes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\Desktop\C--fundamentals\DateandTimes\DateandTimes\obj\Debug\netcoreapp3.1\DateandTimes.AssemblyInfoInputs.cache
+C:\Users\nikhi\Desktop\C--fundamentals\DateandTimes\DateandTimes\obj\Debug\netcoreapp3.1\DateandTimes.AssemblyInfo.cs
+C:\Users\nikhi\Desktop\C--fundamentals\DateandTimes\DateandTimes\obj\Debug\netcoreapp3.1\DateandTimes.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\Desktop\C--fundamentals\DateandTimes\DateandTimes\obj\Debug\netcoreapp3.1\DateandTimes.dll
+C:\Users\nikhi\Desktop\C--fundamentals\DateandTimes\DateandTimes\obj\Debug\netcoreapp3.1\DateandTimes.pdb
+C:\Users\nikhi\Desktop\C--fundamentals\DateandTimes\DateandTimes\obj\Debug\netcoreapp3.1\DateandTimes.genruntimeconfig.cache
