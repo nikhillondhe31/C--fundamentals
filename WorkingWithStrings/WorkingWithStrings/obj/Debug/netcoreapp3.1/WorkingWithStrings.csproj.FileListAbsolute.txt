@@ -1,0 +1,14 @@
+C:\Users\nikhi\Desktop\C--fundamentals\WorkingWithStrings\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.exe
+C:\Users\nikhi\Desktop\C--fundamentals\WorkingWithStrings\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.deps.json
+C:\Users\nikhi\Desktop\C--fundamentals\WorkingWithStrings\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.runtimeconfig.json
+C:\Users\nikhi\Desktop\C--fundamentals\WorkingWithStrings\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.runtimeconfig.dev.json
+C:\Users\nikhi\Desktop\C--fundamentals\WorkingWithStrings\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.dll
+C:\Users\nikhi\Desktop\C--fundamentals\WorkingWithStrings\WorkingWithStrings\bin\Debug\netcoreapp3.1\WorkingWithStrings.pdb
+C:\Users\nikhi\Desktop\C--fundamentals\WorkingWithStrings\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.csproj.AssemblyReference.cache
+C:\Users\nikhi\Desktop\C--fundamentals\WorkingWithStrings\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nikhi\Desktop\C--fundamentals\WorkingWithStrings\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.AssemblyInfoInputs.cache
+C:\Users\nikhi\Desktop\C--fundamentals\WorkingWithStrings\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.AssemblyInfo.cs
+C:\Users\nikhi\Desktop\C--fundamentals\WorkingWithStrings\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.csproj.CoreCompileInputs.cache
+C:\Users\nikhi\Desktop\C--fundamentals\WorkingWithStrings\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.dll
+C:\Users\nikhi\Desktop\C--fundamentals\WorkingWithStrings\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.pdb
+C:\Users\nikhi\Desktop\C--fundamentals\WorkingWithStrings\WorkingWithStrings\obj\Debug\netcoreapp3.1\WorkingWithStrings.genruntimeconfig.cache
